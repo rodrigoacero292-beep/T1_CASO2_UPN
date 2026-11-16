@@ -14,7 +14,7 @@ Versiones utilizadas:
 #Cómo ejecutarlo:
 
 `bash
-https://github.com/rodrigoacero292-beep/T1_CASO2
+https://github.com/rodrigoacero292-beep/T1_CASO2_UPN
 seleccionar la carpeta
 usar lo siguiente para poder abrirlo:
 npm install
